@@ -1,6 +1,6 @@
 # Do it with Docker
 ## Build this thing's docker image:
-(or just use the already published `emarschner/phabricator-file-proxy` image)
+(or just use the already published [emarschner/phabricator-file-proxy](https://hub.docker.com/r/emarschner/phabricator-file-proxy/) image)
 ```
 docker build -t <your username>/phabricator-file-proxy .
 ```
