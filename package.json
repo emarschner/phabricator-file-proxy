@@ -1,0 +1,10 @@
+{
+  "name": "phabricator-file-proxy",
+  "version": "1.0.0",
+  "description": "Proxy access for Phabricator files w/out any pesky authentication.",
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "^1.13.0"
+  },
+  "license": "ISC"
+}
