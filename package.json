@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Proxy access for Phabricator files w/out any pesky authentication.",
   "main": "proxy.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emarschner/phabricator-file-proxy"
+  },
   "dependencies": {
     "http-proxy": "^1.13.0"
   },
